@@ -11,7 +11,7 @@ function getBotResponse(userValue){
         return '<a href="https://www.instagram.com/slngotstsg/">temuujingiin face</a>';
     }
     else{
-        return 'asuuh zvil bain uu';
+        return 'haha zaaz😂';
     }
 
 }
